@@ -1,7 +1,10 @@
 
 **Style Pack For [Thisdp's DirectX Graphical User Interface System](https://github.com/thisdp/dgs)**
 
-The installation introduction is included inside the style pack.
+The zip file includes 3 items:
+* A demo
+* An installation instruction
+* A folder includes some files
 
 **Before installing style pack, check the introduction first!**
 
