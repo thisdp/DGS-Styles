@@ -4,7 +4,7 @@
 The zip file includes 3 items:
 * A demo
 * An installation instruction
-* A folder includes some files
+* A folder include some files
 
 **Before installing style pack, check the introduction first!**
 
